@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="title_home">News Feed</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="article">Article</string>
+    <string name="link_to_article">Link to article</string>
+    <string name="key_word_hint">Enter a keyword to start news searching</string>
+    <string name="error_message">Could not find news for this keyword. try another keyword</string>
+</resources>
